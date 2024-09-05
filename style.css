@@ -12,7 +12,7 @@
 }
 .light{
    background-color: white;
-   color: black;
+   color: #2f242c;
 }
  .flex{
     display: flex;
@@ -24,6 +24,7 @@
         font-family: "Poppins", sans-serif;
         font-weight: 300;    
         line-height: 1.4rem;
+        color:;
      
  }
  nav{
@@ -39,6 +40,11 @@ width: 120px;
  ul{
     list-style: none;
     gap: 40px;  
+ }
+
+ a{
+   text-decoration: none;
+   color: black;
  }
 
  .about-section{
@@ -101,4 +107,64 @@ width: 120px;
  background-color: black;
  color: azure;
  border-style: none;
+}
+
+.education{
+   height: 100vh;
+   margin-top: 100px;
+   text-align: center;
+}
+.education h2{
+   font-size: 2.5rem;
+   padding-top: 10px;
+}
+.container{
+   margin-top: 80px;
+   justify-content: center;
+   gap: 100px;
+
+  
+}
+
+.school,.college{
+   background-color: whitesmoke;
+   flex-direction: column;
+   gap: 10px;
+   padding: 40px 50px 14px;
+   border: 2px solid gray;
+   border-radius: 30px;
+  
+}
+.school-pic img{
+   height: 350px;
+   border-radius: 4px;
+}
+
+.contact-me{
+  height:100vh;
+  padding-top: 170px;
+  text-align: center;
+}
+.contact-me h1{
+   padding: 20px 0 80px;
+   font-size: 2.5rem;
+
+}
+.container2{
+   text-align: center;
+   margin-left: 37%;
+   justify-content: center;
+   align-items: center;
+   align-content: center;
+   gap: 20px;
+   padding: 20px 40px;
+   border: 1px solid gray;
+   width: 420px;
+   border-radius: 20px;
+   background-color: aliceblue;
+   
+}
+
+.copyright{
+   margin-top: 280px;
 }
