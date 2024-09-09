@@ -1,0 +1,467 @@
+@media screen and (max-width:1185px) {
+
+.container{
+    flex-wrap: wrap;
+    margin-top: 60px;
+   justify-content: center;
+   gap: 90px;
+   width: 100vw;
+
+}
+.logo{
+    width: 70px;}
+
+
+    .about-section {
+
+        justify-content: center;
+        align-items: center;
+        gap: 65px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+     
+     }
+.my-photo img {
+    height: 350px;
+    border-radius: 50%;
+    margin-left: 20px;
+    }
+    .about-me h1 {
+        font-size: 2rem;
+        text-align: center;
+     }
+     .about-me p {
+        width: 380px;
+        text-align: center;
+     }
+     
+
+.school-pic img{
+    width: 440px;
+}
+
+.project-container {
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    flex-wrap: wrap;
+ }
+ .contact-me{
+    padding-top: 40px;
+ }   
+}
+
+@media screen and (max-width:840px) {
+
+    .container{
+        flex-wrap: wrap;
+        margin-top: 60px;
+       justify-content: center;
+       gap: 90px;
+       width: 100vw;
+    
+    }
+    .logo{
+        width: 70px;}
+    
+    
+        .about-section {
+    
+            justify-content: center;
+            align-items: center;
+            gap: 15px;
+            margin-top: 70px;
+            margin-bottom: 70px;
+            flex-wrap: wrap;
+         
+         }
+         ul {
+            list-style: none;
+            gap: 30px;
+            font-size: 1rem;
+            padding-right: 15px;
+         }
+    .my-photo img {
+        height: 280px;
+        border-radius: 50%;
+        margin-left: 20px;
+        }
+        .about-me{
+    
+            padding-right: 20px;
+        }
+     
+        .about-me h1 {
+            font-size: 1.6rem;
+            text-align: center;
+          
+         }
+         .about-me p {
+            width: 380px;
+            text-align: center;
+           
+         }
+         
+    
+    .school-pic img{
+        width: 440px;
+    }
+    
+    .project-container {
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+        flex-wrap: wrap;
+     }
+     .contact-me{
+        padding-top: 40px;
+     }   
+    }
+    
+    
+@media screen and (max-width:720px) {
+
+   
+    .logo{
+        width: 50px;}
+     ul {
+            list-style: none;
+            gap: 30px;
+            font-size: 1rem;
+            padding-right: 45px;
+         }
+    
+    
+     .about-section {
+    
+            justify-content: center;
+            align-items: center;
+            gap: 25px;
+            margin-top: 70px;
+            margin-bottom: 70px;
+            flex-wrap: wrap;
+         
+         }
+      
+    .my-photo img {
+        height: 280px;
+        border-radius: 50%;
+        margin-left: 0; 
+        }
+        .about-me{
+           gap: 20px;
+            padding-right: 0px;
+        }
+     
+        .about-me h1 {
+            font-size: 2rem;
+            text-align: center;
+          
+         }
+         .about-me p {
+            width: 500px;
+            text-align: center;
+           
+         }
+         .download-cv {
+            height: 50px;
+            width: 300px;
+         }
+
+
+
+    .container{
+            flex-wrap: wrap;
+            margin-top: 60px;
+           justify-content: center;
+           gap: 90px;
+           width: 100vw;
+        
+        }     
+    
+    .school-pic img{
+        width: 440px;
+    }
+    
+    .project-container {
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+        flex-wrap: wrap;
+     }
+     .contact-me{
+        padding-top: 40px;
+     }   
+    }
+ @media screen and (max-width:480px) {
+
+   
+        .logo{
+            width: 60px;
+        margin-left: 180px;}
+
+         ul a,.switch {
+                display: none;
+             }
+        
+        
+         .about-section {
+        
+                justify-content: center;
+                align-items: center;
+                gap: 25px;
+                margin-top: 70px;
+                margin-bottom: 70px;
+                flex-wrap: wrap;
+             
+             }
+          
+        .my-photo img {
+            height: 280px;
+            border-radius: 50%;
+            margin-left: 0; 
+            }
+            .about-me{
+               gap: 20px;
+                padding-right: 0px;
+            }
+         
+            .about-me h1 {
+                font-size: 1.8rem;
+                text-align: center;
+              
+             }
+             .about-me p {
+                width: 90vw;
+                text-align: center;
+               
+             }
+             .logos{
+                font-size: 2rem;
+             }
+             .download-cv {
+                height: 50px;
+                width: 350px;
+             }
+    
+    
+    
+        .container{
+                flex-wrap: wrap;
+                margin-top: 60px;
+               justify-content: center;
+               gap: 90px;
+               width: 100vw;
+            
+            }     
+        
+        .school-pic img{
+            width: 440px;
+        }
+        
+        .project-container {
+            justify-content: center;
+            align-items: center;
+            gap: 30px;
+            flex-wrap: wrap;
+         }
+         .contact-me{
+            padding-top: 40px;
+         }   
+.tech-stack{
+    flex-wrap: wrap;
+    font-size: 1.2rem;
+}
+.techlogo img {
+    width: 24px;
+ 
+ }
+
+        }
+
+  @media screen and (max-width:430px) {
+
+   
+            .logo{
+                width: 60px;
+            margin-left: 150px;}
+    
+             ul a,.switch {
+                    display: none;
+                 }
+            
+            
+             .about-section {
+            
+                    justify-content: center;
+                    align-items: center;
+                    gap: 25px;
+                    margin-top: 50px;
+                    margin-bottom: 70px;
+                    flex-wrap: wrap;
+                 
+                 }
+              
+            .my-photo img {
+                height: 280px;
+                border-radius: 50%;
+                margin-left: 0; 
+                }
+                .about-me{
+                   gap: 20px;
+                    padding-right: 0px;
+                }
+             
+                .about-me h1 {
+                    font-size: 1.7rem;
+                    text-align: center;
+                  
+                 }
+                 .about-me p {
+                    width: 90vw;
+                   
+                    text-align: center;
+                   
+                 }
+
+                 .logos {
+
+                    justify-content: center;
+                    gap: 10px;
+                    font-size: 2.8rem;
+                 
+                 
+                 }
+                 .download-cv {
+                    height: 50px;
+                    width: 350px;
+                 }
+        
+        
+        
+            .container{
+                    flex-wrap: wrap;
+                    margin-top: 60px;
+                   justify-content: center;
+                   gap: 90px;
+                   width: 100vw;
+                
+                }     
+            
+            .school-pic img{
+                width: 440px;
+            }
+            
+            .project-container {
+                justify-content: center;
+                align-items: center;
+                gap: 30px;
+                flex-wrap: wrap;
+             }
+             .contact-me{
+                padding-top: 40px;
+             }   
+    .tech-stack{
+        flex-wrap: wrap;
+        width: 95vw;
+        font-size: 1rem;
+    }
+    .techlogo img {
+        width: 24px;
+     
+     }
+    
+            }
+  @media screen and (max-width:375px) {
+
+              .logo{
+                    width: 60px;
+                margin-left: 120px;}
+        
+                 ul a,.switch {
+                        display: none;
+                     }
+                
+                
+                 .about-section {
+                
+                        justify-content: center;
+                        align-items: center;
+                        gap: 25px;
+                        margin-top: 50px;
+                        margin-bottom: 70px;
+                        flex-wrap: wrap;
+                     
+                     }
+                  
+                .my-photo img {
+                    height: 240px;
+                    border-radius: 50%;
+                    margin-left: 0; 
+                    }
+                    .about-me{
+                       gap: 20px;
+                        padding-right: 0px;
+                    }
+                 
+                    .about-me h1 {
+                        font-size: 1.5rem;
+                        text-align: center;
+                      
+                     }
+                     .about-me p {
+                        width: 90vw;
+                        font-size: 0.8rem;
+                        text-align: center;
+                       
+                     }
+    
+                     .logos {
+    
+                        justify-content: center;
+                        gap: 18px;
+                        font-size: 2.8rem;
+                     
+                     
+                     }
+                     .download-cv {
+                        height: 50px;
+                        width: 300px;
+                     }
+            
+            
+            
+                .container{
+                        flex-wrap: wrap;
+                        margin-top: 60px;
+                       justify-content: center;
+                       gap: 90px;
+                       width: 100vw;
+                    
+                    }     
+                
+                .school-pic img{
+                    width: 440px;
+                }
+                
+                .project-container {
+                    justify-content: center;
+                    align-items: center;
+                    gap: 30px;
+                    flex-wrap: wrap;
+                 }
+                 .contact-me{
+                    padding-top: 40px;
+                 }   
+        .tech-stack{
+            flex-wrap: wrap;
+            width: 95vw;
+            font-size: 0.9rem;
+        }
+        .techlogo img {
+            width: 18px;
+         
+         }
+        
+                }
+
