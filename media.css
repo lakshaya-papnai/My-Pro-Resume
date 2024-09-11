@@ -434,6 +434,30 @@ margin: 0 ;
         width: 24px;
      
      }
+
+     .contact-me{
+      margin-top: 250px;
+      margin-bottom: 50px;
+   }
+
+   .container2 {
+      
+      width: 95%;
+     font-size: 0.8rem;
+      padding: 15px 26px ;
+      gap: 25px;
+      margin-top: 50px;
+      border: 1px solid gray;
+      border-radius: 28px;
+      background-color: aliceblue;
+   
+   }
+
+   .copyright {
+      margin-top: 100px;
+      justify-content: center;
+      font-size: 0.8rem;
+   }
     
             }
   @media screen and (max-width:375px) {
